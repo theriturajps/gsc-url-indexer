@@ -8,6 +8,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/theriturajps/gsc-url-indexer?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/theriturajps/gsc-url-indexer)
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theriturajps/gsc-url-indexer/main/gsc-url-indexer.png" width="700" alt="Google Search Console Indexer with Python">
+</p>
 
 This Python project uses the **Google Search Console API** to automatically index or reindex URLs listed in a sitemap. The script is designed with error handling, retry mechanisms, and a beautiful terminal UI for professional indexing.
 
